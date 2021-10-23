@@ -1,6 +1,6 @@
 # CSE572-Assignment2   
 #Name:Wenzhe Zheng   
-#Date:10/23/2021
+#Date:10/23/2021  
 #Before running project, please read through this instructuction:
 Contained within the folder is train.py and  test.py
 the train.py program reads four files;the train.py reads CGMData.csv, CGM_patient2.csv and InsulinData.csv, Insulin_patient2.csv, 
