@@ -1,5 +1,5 @@
-# CSE572-Assignment2
-#Name:Wenzhe Zheng
+# CSE572-Assignment2 //
+#Name:Wenzhe Zheng //
 #Date:10/23/2021
 #Before running project, please read through this instructuction:
 Contained within the folder is train.py and  test.py
